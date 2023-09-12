@@ -4,7 +4,7 @@ import { ListItem, Text, UnorderedList } from "@chakra-ui/react";
 
 
 export const GenreList = () => {
-   const { genres, error } = useGenres()
+   const { genres, error, isLaoding } = useGenres()
 
   return (
      <UnorderedList>
