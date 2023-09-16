@@ -5,7 +5,6 @@ import {
   List,
   ListItem,
   Image,
-  Spinner,
   Button,
   Heading,
 } from "@chakra-ui/react";
@@ -24,7 +23,6 @@ export const GenreList = ({ onSelectGenre, selectedGenre }: Props) => {
     <>
       <Heading fontSize='2xl'marginBottom={2}> Gneres </Heading>
       <List paddingY={30}>
-        {isLaoding && <Spinner color="red.500" />}
         {data.map((genre) => (
           <ListItem key={genre.id} paddingY="5px">
             <HStack>
