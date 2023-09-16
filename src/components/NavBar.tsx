@@ -4,12 +4,17 @@ import logo from '../assets/website logo.png'
 import { ColorModeSwitch } from './ColorModeSwitch'
 import { SearchInput } from './SearchInput'
 
-export const Navbar = () => {
+interface Props {
+  onSearch: (searchText: string) => void;
+}
+
+
+export const Navbar = ({onSearch}: Props) => {
     const { toggleColorMode, colorMode } = useColorMode()
   return (
     <HStack justifyContent='space-between' padding= '10px'>
         <Image src={logo} boxSize= '80px'  />
-        <SearchInput />
+        <SearchInput onSearch={onSearch} />
         <ColorModeSwitch />
     </HStack>
   )
