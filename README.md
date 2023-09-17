@@ -1,10 +1,10 @@
 <a name="readme-top"></a>
 
 <details>
-<summury>📗Table of Contents</summury>
+<summary>📗Table of Contents</summary>
+  
 - [📖 About the Project](#about-project)
   - [🛠 Built With](#built-with)
-    - [Tech Stack](#tech-stack)
     - [Key Features](#key-features)
   - [🚀 Live Demo](#live-demo)
 - [💻 Getting Started](#getting-started)
@@ -19,23 +19,22 @@
 - [🙏 Acknowledgements](#acknowledgements)
 - [📝 License](#license)
 </details>
-# 📖 [GameHub] <a name="about-project"></a>
+
+# 🤖GameHub <a name="about-project"></a>
 
 > 
 **GameHub** is a video game discovery web app that helps you find new and interesting games to play. With GameHub, you can search for games by platform, genre, and more.
 
 
 ## 🛠 Built With <a name="built-with">
-> Visual Studio Code and Github
-### Tech Stack <a name="tech-stack">
-> The Tech stack used in this project is the frontend technology 'REACT.js'
+> The Tech stack used in this project:
 
 <details>
   <summary>Front-End</summary>
   <ul>
-    <li><a href="https://react.dev/"></a>React.js</li>
-    <li><a href="https://www.typescriptlang.org/"></a>TypeScript</li>
-    <li><a href="https://chakra-ui.com/"></a>ChakraUI</li>
+    <li><a href="https://react.dev/">React.js</a></li>
+    <li><a href="https://www.typescriptlang.org/">TypeScript</a></li>
+    <li><a href="https://chakra-ui.com/">ChakraUI</a></li>
   </ul>
 </details>
 
