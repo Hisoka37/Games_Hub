@@ -21,7 +21,7 @@ export const GenreList = ({ onSelectGenre, selectedGenre }: Props) => {
 
   return (
     <>
-      <Heading fontSize='2xl'marginBottom={2}> Gneres </Heading>
+      <Heading fontSize='2xl'marginBottom={2}> Genres </Heading>
       <List paddingY={30}>
         {data.map((genre) => (
           <ListItem key={genre.id} paddingY="5px">
