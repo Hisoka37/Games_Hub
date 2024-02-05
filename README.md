@@ -64,7 +64,7 @@
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> [Live Demo](https://game-fz03ur1w1-hisoka37.vercel.app/)
+> [Live Demo](https://game-n4y13qstx-hisoka37.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
