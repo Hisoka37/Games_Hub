@@ -108,7 +108,7 @@ To use the project, Click on the live Demo link or clone the project,install dep
 ## 👥 Authors <a name="authors"></a>
 
 >
-👤 **Walid Hisoka Kabboussa**
+👤 **Walid Kabboussa**
 - GitHub: [@githubhandle](https://github.com/Hisoka37)
 - LinkedIn: [LinkedIn](https://www.linkedin.com/in/walidkb/)
 - Twitter: [Twitter](https://twitter.com/kbwalid9)
